@@ -1,0 +1,7 @@
+gym
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+#torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
